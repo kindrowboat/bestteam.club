@@ -1,0 +1,20 @@
+
+img.best-team {
+    max-width: 95%;
+    display: block;
+    border: 5px solid;
+    border-color: #f27062;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f7dc5f;
+}
